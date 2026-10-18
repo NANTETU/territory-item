@@ -1,0 +1,2 @@
+# territory-item
+専用の時計のアイテムをクリックすることでterritoryプラグインのGUIを開きます
