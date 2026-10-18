@@ -1,4 +1,4 @@
-# ClockMenu
+# Territory Item
 
 時計アイテムから土地保護メニュー(`/tty`, endstone-territory製)を開くEndstone用Pythonプラグイン。
 

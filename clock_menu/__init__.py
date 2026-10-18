@@ -1,4 +1,4 @@
-# ClockMenu - endstone-territory の /tty を時計アイテムから開くプラグイン
+# Territory Item - endstone-territory の /tty を時計アイテムから開くプラグイン
 # 参考: https://github.com/yuhangle/endstone-territory
 #  - territory側は command("tty") を登録し、引数なしで menu_->openMainMenu() を開く
 #  - 権限 territory.command.member は default True のため perform_command("tty") はOP不要で全員実行可

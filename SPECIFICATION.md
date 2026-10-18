@@ -1,4 +1,4 @@
-# ClockMenu 仕様書
+# Territory Item 仕様書
 
 時計アイテムから C++ 製土地保護プラグイン「endstone-territory」のメニュー (`/tty`) を開く Endstone (Python API) プラグイン。
 
